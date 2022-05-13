@@ -360,3 +360,53 @@
     // output:  ['Orange', 'Pineapple','Grapes', 'Potato','Tomato', 'Carrot','Guava',  'Litchi']
 
 
+
+    // const cars = ["Saad","Volvo","BMW","Audi","Farari"];
+    //  cars[0] = "Range Rovar";
+    //  console.log(cars);
+
+    //  output: [ 'Range Rovar', 'Volvo', 'BMW', 'Audi', 'Farari' ]
+
+
+
+//    const names = ["Ankit","Naseem","Asif","Prateek","Clove","Sir"];
+//      names [4] = "Amit";
+//      console.log(names);
+    
+
+   
+    //    const fruits = ["Banana", "Orange", "Apple", "Mango"];
+    //    console.log(fruits[3]);
+
+
+
+    // const cars = ["Saad","Volvo","BMW","Audi","Farari"];
+    //   console.log(cars[4]);
+
+
+
+    // const cars =['Range Rovar', 'Volvo', 'BMW', 'Audi', 'Farari'];
+     
+    // console.log(cars[cars.length-1]);
+
+    //  output: Farari
+
+
+
+    // var arr=['Orange','Pineapple','Grapes',['Potato','Tomato','Carrot',['Guava','Litchi']]];
+
+    //     console.log(arr.flat(2));
+
+    //   output: ['Orange', 'Pineapple',
+    //   'Grapes', 'Potato',
+    //   'Tomato', 'Carrot',
+    //   'Guava',  'Litchi']
+
+
+
+
+       //     Code With Harry classes for JavaScript       //
+
+
+
+        
