@@ -279,4 +279,39 @@
 
 
 
-console.log(900);
+// function factorial(num){
+//     let multi =1;
+//     for(let i=1; i<=num; i++){
+//         multi *= i;
+//     }
+//     return multi;
+// }
+// console.log(factorial(10));
+
+
+
+// let string = 'This is a good things to know about programming'
+// console.log(string);
+// console.log(string.indexOf('s'));
+// console.log(string.lastIndexOf('s'));
+// console.log(string.substring(0,20));
+// console.log(string.slice(-11));
+// console.log(string.slice(0,20));
+// console.log(string.split(' '));
+// console.log(string.charAt(5));
+// console.log(string.endsWith('programming'));
+// console.log(string.includes('iss'));
+
+
+
+// function divid(num){
+//     for(let i=1;i<=num; i++){
+//        if(num%i===0){
+//            console.log(i);
+//        }
+//     }
+// }
+// divid(33);
+
+
+
